@@ -1,3 +1,0 @@
-/home/sjtu-rm/Workspace/Homework/homework1/apple/build/CMakeFiles/rebuild_cache.dir
-/home/sjtu-rm/Workspace/Homework/homework1/apple/build/CMakeFiles/edit_cache.dir
-/home/sjtu-rm/Workspace/Homework/homework1/apple/build/CMakeFiles/ocv.dir
