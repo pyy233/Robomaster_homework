@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/sjtu-rm/Workspace/homework2/chessboard/build",
+  "command": "/usr/bin/g++   -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/ocv.dir/main.cpp.o -c /home/sjtu-rm/Workspace/homework2/chessboard/main.cpp",
+  "file": "/home/sjtu-rm/Workspace/homework2/chessboard/main.cpp"
+}
+]

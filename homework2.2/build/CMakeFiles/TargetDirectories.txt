@@ -1,0 +1,3 @@
+/home/sjtu-rm/Workspace/homework2/chessboard/build/CMakeFiles/rebuild_cache.dir
+/home/sjtu-rm/Workspace/homework2/chessboard/build/CMakeFiles/edit_cache.dir
+/home/sjtu-rm/Workspace/homework2/chessboard/build/CMakeFiles/ocv.dir
